@@ -1,0 +1,6 @@
+body{font-family: 'Roboto', }
+table tr:nth-child(2n+1){background: #bdc3c7}
+table, th, td {
+    border: 1px solid black;
+  }
+
